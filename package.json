@@ -1,0 +1,15 @@
+{
+  "name": "sprite-generateor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node index.js"
+  },
+  "keywords": [],
+  "author": "shineshao <xiaoshaoqq@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "spritesmith": "^3.3.1"
+  }
+}
